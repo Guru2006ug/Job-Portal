@@ -1,2 +1,8 @@
-# Job-Portal
-Developing a comprehensive job portal to connect job seekers with employers. Implementing three key modules: Admin (managing users and job postings), Employee (posting and managing job listings), and Job Seeker (applying for jobs and tracking applications).
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
